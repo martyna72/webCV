@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: #F5FAFF;
+    margin: 10px;
+    border: 4px solid black;
+
+}
+#gora{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 15%;
+    align-items: normal;
+    margin: 10px;
+}
+#lewo{
+    height: 90%;
+    width: 78%;
+    border: 3px solid black;
+    display: flex;
+}
+#prawo{
+    height: 90%;
+    width: 20%;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: larger;
+}
+#srodek1{
+    height: 80%;
+    width: 100%;
+    display: flex;
+}
+#lewo-srodek{
+    display: flex;
+    height: 95%;
+    width: 77%;
+    border: 3px solid black;
+    margin: 10px;
+    flex-direction: row;
+}
+#prawo-srodek{
+    height: 96%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+#prawo2{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    border: 3px solid black;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+li{
+    /* list-style-type: none;
+    display: flex;
+    flex-direction: column; */
+
+}
+hr{
+    width: 98%;
+    border: none;
+    border-top: 3px dashed black;
+
+}
+#project0{
+    height: 75%;
+    width: 21%;
+    border: 2px solid black;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0B8673;
+    color: #F5FAFF;
+}
+#project1{
+    height: 75%;
+    width: 21%;
+    border: 2px solid black;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0B8673;
+    color: #F5FAFF;
+}
+#project2{
+    height: 75%;
+    width: 21%;
+    border: 2px solid black;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0B8673;
+    color: #F5FAFF;
+}
+#project3{
+    height: 75%;
+    width: 21%;
+    border: 2px solid black;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0B8673;
+    color: #F5FAFF;
+}
+.przycisk{
+    height: 40px;
+    width: 40px;
+}
+#prawo2{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    border: 3px solid black;
+    justify-content: space-evenly;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+}
+#lista{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+#lista ul{
+    list-style-type: "-";
+}
+b{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: larger;
+}
+#ludzik{
+    height: 40%;
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    border-radius: 5px;
+    margin: 45px;
+
+
+}
+h1{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+}
+h2{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+#nazwa{
+    height: 20%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+.mail{
+    height: 40px;
+    width: 40px;
+}
+#social{
+    height: 20%;
+    width: 20%;
+    float: right;
+    margin: 10px;
+}
+#gora-srodek{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+#srodek-dol{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+#opis{
+    height: 20%;
+    width: 100%;
+    display: flex;
+}
+
+
+
